@@ -7,10 +7,14 @@
       "discount": 30,
       "variants": [
         { "id": 1, "name": "Hitam", "stock": 900 },
-        { "id": 2, "name": "Putih", "stock": 0 },
-        { "id": 3, "name": "Coklat", "stock": 100 }
+        { "id": 2, "name": "Maroon", "stock": 0 },
+        { "id": 3, "name": "Hijau", "stock": 100 }
       ],
-      "image": "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/zeea/product/image/601c9db87afea-256.jpg",
+      "images": [
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/zeea/product/image/601c9db87afea-256.jpg",
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/zeea/product/image/601c9eacd76af-256.jpg",
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/noore/product/image/60ebc7b626bb5-256.jpg"
+      ],
       "description": "Hijab Active Sport terbuat dari bahan Jersey Stella kualitas premium yang tentunya lembut,adem,dan nyaman dipakai",
       "store": {
         "name": "Zeea",
@@ -24,10 +28,13 @@
       "price": 124576,
       "discount": 0,
       "variants": [
-        { "id": 1, "name": "Lengan Panjang", "stock": 900 },
-        { "id": 2, "name": "Lengan 3/4", "stock": 100 }
+        { "id": 1, "name": "Resleting Depan", "stock": 900 },
+        { "id": 2, "name": "Tanpa Resleting", "stock": 100 }
       ],
-      "image": "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/noore/product/image/60f12e44d68ad-256.jpg",
+      "image": [
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/noore/product/image/60f12e44d68ad-256.jpg",
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/noore/product/image/60f10d310c10b-256.jpg"
+      ],
       "description": "Agalia Top terbuat dari bahan Jersey Stella kualitas premium yang tentunya lembut,adem,dan nyaman dipakai",
       "store": {
         "name": "Noore",
@@ -42,10 +49,14 @@
       "discount": 0,
       "variants": [
         { "id": 1, "name": "Hitam", "stock": 1 },
-        { "id": 2, "name": "Putih", "stock": 5 },
-        { "id": 3, "name": "Coklat", "stock": 7 }
+        { "id": 2, "name": "Hijau", "stock": 5 },
+        { "id": 3, "name": "Abu", "stock": 7 }
       ],
-      "image": "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/noore/product/image/60f12d32079b4-256.jpg",
+      "image": [
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/noore/product/image/60f12d32079b4-256.jpg",
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/noore/product/image/60f12df93d951-256.jpg",
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/noore/product/image/60f0f43d245d4-256.jpg"
+      ],
       "description": "Clio Pants terbuat dari bahan Jersey Stella kualitas premium yang tentunya lembut,adem,dan nyaman dipakai",
       "store": {
         "name": "Noore",
@@ -63,7 +74,11 @@
         { "id": 2, "name": "Putih", "stock": 0 },
         { "id": 3, "name": "Coklat", "stock": 10 }
       ],
-      "image": "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/outdoorpro/product/image/5f62cfbeab110-256.jpg",
+      "image": [
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/outdoorpro/product/image/5f62cfbeab110-256.jpg",
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/outdoorpro/product/image/5f62cfa701c57-256.jpg",
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/outdoorpro/product/image/5f62cf8eadeb8-256.jpg"
+      ],
       "description": " Sandal Gunung heroik adalah sandal gunung berkonsep Traventure (Travelling Adventure), yaitu sandal diproduksi dengan standar Mountaineering base technology, yaitu kualitas proses pembuatan serta bahan baku khusus penggunaan outdoor activities dengan desain yang stylish, sehingga menghasilkan standar ketahanan serta kenyamanan maksimal",
       "store": {
         "name": "OutdoorPro",
@@ -77,11 +92,15 @@
       "price": 150000,
       "discount": 30,
       "variants": [
-        { "id": 1, "name": "Hitam", "stock": 19 },
-        { "id": 2, "name": "Putih", "stock": 0 },
-        { "id": 3, "name": "Coklat", "stock": 10 }
+        { "id": 1, "name": "Besar", "stock": 19 },
+        { "id": 2, "name": "Kecil", "stock": 0 },
+        { "id": 3, "name": "Sedang", "stock": 10 }
       ],
-      "image": "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/noore/product/image/60ebc911a7e99-256.jpg",
+      "image": [
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/noore/product/image/60ebc911a7e99-256.jpg",
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/noore/product/image/60ebc8ed18017-256.jpg",
+        "https://evermos-production.s3.ap-southeast-1.amazonaws.com/brand/noore/product/image/60ebc92eafbe2-256.jpg"
+      ],
       "description": "Zimbara Duffle Bag, Produk ini merupakan buatan konveksi lokal sehingga memiliki harga yang terjangkau dengan kualitas terbaik dikelasnya",
       "store": {
         "name": "Bata",
